@@ -2,9 +2,9 @@
 
 把微信公众号文章和配图保存到电脑，用浏览器就能离线阅读。
 
-**[免费下载 Windows 版 4.0.3（64 位全量安装包）](https://github.com/932179209/wechatdownload/releases/download/v4.0.3/WeChatArticleArchive-4.0.3-Windows-x64-Setup.exe)** · [查看使用说明](https://github.com/932179209/wechatdownload/releases/tag/v4.0.3)
+**[免费下载 Windows 版 4.0.5（64 位全量安装包）](https://github.com/932179209/wechatdownload/releases/download/v4.0.5/WeChatArticleArchive-4.0.5-Windows-x64-Setup.exe)** · [查看使用说明](https://github.com/932179209/wechatdownload/releases/tag/v4.0.5)
 
-支持 Windows 10/11 64 位，新用户可直接安装。每台电脑每天可免费发起 **3 次单篇文章下载**，按北京时间计次。需要不限次数下载单篇文章、下载合集或按日期归档，请添加 **客服微信 `diffming`** 获取授权码，在软件中点击“激活授权”。
+支持 Windows 10/11 64 位，安装时可在“选择目标位置”点击“浏览”或输入路径。升级时会预填原安装目录，你也可以更改。每台电脑每天可免费发起 **3 次单篇文章下载**，按北京时间计次。需要不限次数下载单篇文章、下载合集或按日期归档，请添加 **客服微信 `diffming`** 获取授权码，在软件中点击“激活授权”。
 
 ## 功能简介
 
